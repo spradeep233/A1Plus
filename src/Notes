@@ -1,0 +1,11 @@
+//useContext api use to share data from defferent heirerical level without using propes or multiple level.
+haveing three property to use useContext .
+
+CreatContext,
+provider,
+consumer
+
+
+//useContext();    
+
+
