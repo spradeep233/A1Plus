@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab7169dc1756bfcc3e9f441bae9806c5",
+    "revision": "dfed68707237a42b3a4a9911a17e8784",
     "url": "/A1Plus/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/A1Plus/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "cafeb46b85fbb780a540",
+    "revision": "dccd118791f48730b5c3",
     "url": "/A1Plus/static/css/main.f787df45.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/A1Plus/static/js/2.4ca1f866.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cafeb46b85fbb780a540",
-    "url": "/A1Plus/static/js/main.a6d8595d.chunk.js"
+    "revision": "dccd118791f48730b5c3",
+    "url": "/A1Plus/static/js/main.7846a215.chunk.js"
   },
   {
     "revision": "408e80815183aed86dd5",
