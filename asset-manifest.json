@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/A1Plus/static/css/main.f787df45.chunk.css",
-    "main.js": "/A1Plus/static/js/main.0802967b.chunk.js",
-    "main.js.map": "/A1Plus/static/js/main.0802967b.chunk.js.map",
+    "main.js": "/A1Plus/static/js/main.a6d8595d.chunk.js",
+    "main.js.map": "/A1Plus/static/js/main.a6d8595d.chunk.js.map",
     "runtime-main.js": "/A1Plus/static/js/runtime-main.8d30dc50.js",
     "runtime-main.js.map": "/A1Plus/static/js/runtime-main.8d30dc50.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/A1Plus/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.4ca1f866.chunk.js": "/A1Plus/static/js/2.4ca1f866.chunk.js",
     "static/js/2.4ca1f866.chunk.js.map": "/A1Plus/static/js/2.4ca1f866.chunk.js.map",
     "index.html": "/A1Plus/index.html",
-    "precache-manifest.2cd7e487a836c178107613019c4b1d85.js": "/A1Plus/precache-manifest.2cd7e487a836c178107613019c4b1d85.js",
+    "precache-manifest.be876d5b605a71ee6ce6daeb900aa1d2.js": "/A1Plus/precache-manifest.be876d5b605a71ee6ce6daeb900aa1d2.js",
     "service-worker.js": "/A1Plus/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/A1Plus/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.f787df45.chunk.css.map": "/A1Plus/static/css/main.f787df45.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.4ca1f866.chunk.js",
     "static/css/main.f787df45.chunk.css",
-    "static/js/main.0802967b.chunk.js"
+    "static/js/main.a6d8595d.chunk.js"
   ]
 }
